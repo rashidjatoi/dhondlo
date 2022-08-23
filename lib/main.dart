@@ -1,4 +1,3 @@
-import 'package:dhondlo/views/home_page.dart';
 import 'package:dhondlo/views/splash_screen.dart';
 import 'package:flutter/material.dart';
 
